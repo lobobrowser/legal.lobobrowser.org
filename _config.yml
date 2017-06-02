@@ -1,13 +1,14 @@
-name:      Lobo Browser Docs
-markdown:  redcarpet
+name: LoboBrowser Legal
+markdown: redcarpet
 redcarpet:
   extensions: ["no_intra_emphasis", "tables", "with_toc_data", "autolink"]
 pygments:  true
 highlighter: pygments
 permalink: pretty
-baseurl:   //docs.lobobrowser.org
-mainsiteurl: //lobobrowser.com
-cobrasite: //cobra.lobobrowser.com
+baseurl:   //legal.lobobrowser.org
+docsurl: //docs.lobobrowser.org
+mainsiteurl: //lobobrowser.org
+cobrasite: //cobra.lobobrowser.org
 communitysite: //forums.lobobrowser.org
 extendsite: //extend.lobobrowser.org
-blogsite: //blog.lobobrowser.com
+blogsite: //blog.lobobrowser.org
